@@ -1,4 +1,5 @@
 body{
+    Max-width:100%;
     margin:0;
     background-image:url('earth.jpg') no-repeat;
     background-size:cover;
